@@ -2,7 +2,7 @@
 
 ![SkinSplain](images/skinsplain_ui.png)
 
-SkinSplain, is a web-based framework designed for measuring
+SkinSplain is a web-based framework designed for measuring
 users’ perceived trust in AI systems when interacting with both numerical and visual interpretability cues.
 
 ## Setup:

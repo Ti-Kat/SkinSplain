@@ -21,7 +21,7 @@
 # -----------------------------
 # Binary models
 /model/binary/*
-/model/binary/2024_10_16-22_54_58
+!/model/binary/2024_10_16-22_54_58
 # Multiclass models
 /model/multi/*
 # -----------------------------
